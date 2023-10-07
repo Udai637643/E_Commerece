@@ -28,10 +28,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - Order history and tracking.
 - Admin panel to manage products, categories, and orders.
 
-## Demo
-
-[shopwithzosh](https://shopwithzosh.vercel.app/)
-
 ## Technologies Used
 
 - Frontend:
@@ -50,12 +46,10 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 ## Installation
 
-1. Clone Frontend repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-2. Clone Backend Repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-3. Change directory Frontend:`cd shopwithzosh`
-4. Change directory Backend: `cd e-commerce-server`
-5. Install frontend dependencies: `npm install`
-6. Install backend dependencies
+1. Change directory Frontend:`cd shopwithzosh`
+2. Change directory Backend: `cd e-commerce-server`
+3. Install frontend dependencies: `npm install`
+4. Install backend dependencies
 
 ## Usage
 
@@ -83,8 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Ashok Zarmariya
-- ashokzarmariya47@gmail.com
+- Udai Lal Regar
+- udai637643@gmail.com
 - [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
 
 Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
