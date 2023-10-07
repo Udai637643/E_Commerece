@@ -2,7 +2,7 @@
 
 ## Description
 
-A full-stack eCommerce application built with React and Spring Boot And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
+A full-stack eCommerce application built with React And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
 
 
@@ -69,9 +69,6 @@ Example:
 
 Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
