@@ -38,11 +38,6 @@ A full-stack eCommerce application built with React And Node Js. The project aim
   - MUI: CSS components library.
   - Tailwind Css.
 
-- Backend:
-  - Spring Boot: Java framework for building robust and scalable backend applications.
-  - Spring Security: Authentication and authorization for the API endpoints.
-  - Spring Data JPA: Database access and ORM tool.
-  - MySQL : Database to store application data.
 
 ## Installation
 
