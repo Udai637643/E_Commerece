@@ -78,19 +78,20 @@ Feel free to customize the README to include more specific information about you
 ## ScreenShots
 
 ### Home Carousel
-![Screenshot (120)](https://github.com/ashok0001/shopwithzosh/assets/93376968/a559ba7a-3350-41b8-9151-5813ad0b3597)
+![image](https://github.com/user-attachments/assets/4ebc2f84-7499-471f-aaac-da37fde252f0)
+
 
 
 ### Multi Product Carousel
-![Screenshot (121)](https://github.com/ashok0001/shopwithzosh/assets/93376968/089666de-bbfa-4218-876e-5dbe7306325c)
+![image](https://github.com/user-attachments/assets/cb570f1d-daf4-47b6-b9cb-949bebc37a60)
 
-
-### Products Page
-![Screenshot (119)](https://github.com/ashok0001/shopwithzosh/assets/93376968/4f200711-b90e-4324-bc74-5f7beb01125d)
 
 
 ### Product Details Page
-![Screenshot (122)](https://github.com/ashok0001/shopwithzosh/assets/93376968/53f2b45d-3e49-4d58-9249-15e85bd7aca5)
+![image](https://github.com/user-attachments/assets/4a167233-7881-4967-bf2a-33a31ba1c948)
+![image](https://github.com/user-attachments/assets/cc2a3367-7c0e-46bf-872f-85b7b2b0f0d1)
+
+
 
 
 ### Cart Page
@@ -101,6 +102,7 @@ Feel free to customize the README to include more specific information about you
 ![Screenshot (100)](https://github.com/ashok0001/shopwithzosh/assets/93376968/c8354400-8fac-4ee6-b2d4-6c3b79d696c7)
 
 
-### Order Summery
-![Screenshot (101)](https://github.com/ashok0001/shopwithzosh/assets/93376968/2847231f-72ff-46de-9426-ded1e9133326)
+### Admin 
+![image](https://github.com/user-attachments/assets/6924b730-3661-46fe-8ce7-acfe8a8cf5f7)
+
 
