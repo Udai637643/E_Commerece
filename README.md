@@ -1,108 +1,114 @@
-# E-Commerce Full Stack Project
 
-## Description
+# 🛒 Shop With Zosh – Full Stack eCommerce App
 
-A full-stack eCommerce application built with React And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
+**Shop With Zosh** is a full-featured, full-stack eCommerce web application built using **React**, **Node.js**, and **MongoDB**. Designed for seamless online shopping, the platform provides an intuitive user experience, real-time product management, and secure payment workflow.
 
+---
 
+## 🚀 Features
 
-## Table of Contents
+- 🔐 **User Authentication** (Register/Login)
+- 🛍️ **Product Catalog** with categories & filtering
+- 🛒 **Add to Cart** & Quantity Management
+- 💳 **Checkout** with address form & payment flow
+- 📦 **Order History & Tracking**
+- 🧑‍💼 **Admin Dashboard** for products, orders & user management
+- 📱 **Fully Responsive UI** built with **Tailwind CSS** & **MUI**
 
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Screenshots](#screenshots)
-
-## Features
-
-- User registration and authentication.
-- Browse through a variety of products in different categories.
-- Add products to the cart and manage cart items.
-- Checkout process with various payment options.
-- Order history and tracking.
-- Admin panel to manage products, categories, and orders.
-
-## Technologies Used
-
-- Frontend:
-  - React: JavaScript library for building user interfaces.
-  - Redux: State management library for React applications.
-  - HTML/CSS: Markup and styling of the application.
-  - Axios: HTTP client for making API requests.
-  - MUI: CSS components library.
-  - Tailwind Css.
+---
 
 
-## Installation
+## 🧰 Technologies Used
 
-1. Change directory Frontend:`cd shopwithzosh`
-2. Change directory Backend: `cd e-commerce-server`
-3. Install frontend dependencies: `npm install`
-4. Install backend dependencies
+### 🖼️ Frontend
+- React.js
+- Redux Toolkit
+- Axios
+- Tailwind CSS + Material UI
+- React Router
 
-## Usage
+### 🛠️ Backend
+- Node.js + Express.js
+- MongoDB + Mongoose
+- JSON Web Tokens (JWT)
+- Multer (file uploads)
+-  Razorpay integration 
 
-1. Start the frontend application: `npm start`
-2. Start the backend server:
-3. Access the application at `http://localhost:3000` in your web browser.
+---
 
-## API Endpoints
+## 📦 Installation Guide
 
-List the available API endpoints along with their descriptions and the necessary request and response formats.
+> Ensure Node.js, npm, and MongoDB are installed.
 
-Example:
+### 🧑‍💻 Frontend Setup
 
-[Checkout All Endpoints Here...](https://e-commerce-server-production-0873.up.railway.app/swagger-ui/index.html)
+```bash
+cd shopwithzosh
+npm install
+npm start
+````
 
-## Contributing
+### 🛠️ Backend Setup
 
-Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
+```bash
+cd e-commerce-server
+npm install
+node server.js
+```
 
+📍 Visit: `http://localhost:3000`
 
-## Contact
+---
 
-If you have any questions or suggestions, feel free to contact me:
+## 📡 API Endpoints
 
-- Udai Lal Regar
-- udai637643@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
+> All backend APIs follow RESTful design principles.
 
-Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
-
-## ScreenShots
-
-### Home Carousel
-![image](https://github.com/user-attachments/assets/4ebc2f84-7499-471f-aaac-da37fde252f0)
+* GET `/api/products` – Get all products
+* GET `/api/products/:id` – Get single product
+* POST `/api/users/login` – Login
+* POST `/api/users/register` – Register
+* POST `/api/orders` – Create order
+* GET `/api/orders/:id` – Get order by ID
+* ...and more
 
 
 
-### Multi Product Carousel
-![image](https://github.com/user-attachments/assets/cb570f1d-daf4-47b6-b9cb-949bebc37a60)
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page (Hero + Categories)
+
+![Home Carousel](https://github.com/user-attachments/assets/4ebc2f84-7499-471f-aaac-da37fde252f0)
+
+### 🎯 Multi-Product Carousel
+
+![Multi Product](https://github.com/user-attachments/assets/cb570f1d-daf4-47b6-b9cb-949bebc37a60)
+
+### 📋 Product Details Page
+
+![Details 1](https://github.com/user-attachments/assets/4a167233-7881-4967-bf2a-33a31ba1c948)
+![Details 2](https://github.com/user-attachments/assets/cc2a3367-7c0e-46bf-872f-85b7b2b0f0d1)
+
+### 🛒 Cart & Checkout
+
+![Cart](https://github.com/ashok0001/shopwithzosh/assets/93376968/50a05948-8f06-48eb-b526-d1ac62bdd3ca)
+![Shipping](https://github.com/ashok0001/shopwithzosh/assets/93376968/c8354400-8fac-4ee6-b2d4-6c3b79d696c7)
+
+### ⚙️ Admin Dashboard
+
+![Admin](https://github.com/user-attachments/assets/6924b730-3661-46fe-8ce7-acfe8a8cf5f7)
+
+---
 
 
+## 📬 Contact
 
-### Product Details Page
-![image](https://github.com/user-attachments/assets/4a167233-7881-4967-bf2a-33a31ba1c948)
-![image](https://github.com/user-attachments/assets/cc2a3367-7c0e-46bf-872f-85b7b2b0f0d1)
+For questions or feedback, reach out:
 
-
-
-
-### Cart Page
-![Screenshot (123)](https://github.com/ashok0001/shopwithzosh/assets/93376968/50a05948-8f06-48eb-b526-d1ac62bdd3ca)
-
-
-### Add Shipping Address
-![Screenshot (100)](https://github.com/ashok0001/shopwithzosh/assets/93376968/c8354400-8fac-4ee6-b2d4-6c3b79d696c7)
-
-
-### Admin 
-![image](https://github.com/user-attachments/assets/6924b730-3661-46fe-8ce7-acfe8a8cf5f7)
+* 👨‍💻 **Udai Lal Regar**
+* 📧 [udai637643@gmail.com](mailto:udai637643@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/udai-lal-regar-144806240)
 
 
